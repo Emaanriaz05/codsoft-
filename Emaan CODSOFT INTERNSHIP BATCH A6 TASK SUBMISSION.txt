@@ -1,0 +1,14 @@
+CODSOFT INTERNSHIP PROGRAM TASK SUBMISSION BATCH A6
+
+GITHUB PROFILE LINK 
+https://github.com/Emaanriaz05  
+GITHUB LINKS FOR ALL THE TASKS ARE GIVEN BELOW:
+Task 1:
+Portfolio website using HTML, CSS, JavaScript
+https://github.com/Emaanriaz05/CODSOFT/tree/master  
+Task 2:
+Todo List using HTML, CSS, JavaScript and local storage for storing the data.
+https://github.com/Emaanriaz05/Todo-list-using-html-css-js-with-local-storage/tree/master 
+Task 3:
+Calculator using HTML, CSS, JavaScript
+https://github.com/Emaanriaz05/calculator-using-html-css-js 
